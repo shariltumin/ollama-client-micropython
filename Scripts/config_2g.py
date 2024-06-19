@@ -2,7 +2,7 @@
 # wifi? 
 # wifi = {} # no wifi
 # need wifi
-wifi = {'SSID':"dlink-3530",'PWD':"cabbp73520" }
+wifi = {'SSID':"your-ssdi",'PWD':"your-pwd" }
 
 # ollama 
 #srv = {
