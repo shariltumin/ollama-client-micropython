@@ -56,7 +56,7 @@ There is no way the Ollama program can be installed on an MCU due to resource co
 
 Below is a transcript of a session running the test script on an ESP8266.
 
-```sh
+```
 $ mpremote mount .
 Local directory . is mounted at /remote
 Connected to MicroPython at /dev/ttyUSB0
