@@ -50,7 +50,7 @@ else:
    oc = None
 
 # 1.
-promps = ['If Top is 3 inches taller then Dick, and Dick is 2 inches taller than Harry, how much taller is Tom than Harry', 'Can Tom be taller than himself', 'Can a sister be taller than her brother', 'Can two siblings each be taller than the other']
+promps = ['If Tom is 3 inches taller then Dick, and Dick is 2 inches taller than Harry, how much taller is Tom than Harry', 'Can Tom be taller than himself', 'Can a sister be taller than her brother', 'Can two siblings each be taller than the other']
 
 oc.clear()
 for prom in promps:
